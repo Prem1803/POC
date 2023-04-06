@@ -1,12 +1,176 @@
 This recording is from the British Council.
-Hi, Joe. Hello, and thank you for talking to me today. What would you like to talk about? So I'm going to tell you about my recent visit to a very well known restaurant and very special restaurant. Okay, great.
-It's called Alcia Can Rocca, and it's in Girona in Spain, and it often comes in the top two or three restaurants wow. In the world. And I went last week and well, the first thing that was exciting for us was to even get a table because we booked a year ago and we had to go. You have to go because you can book a year in advance, so you have to go online at 1 minute to midnight a year before you think you could go and keep refreshing, refreshing the page until places become available and just go immediately and get the table. So we were really excited to have the table, and we were kind of nervous on Friday because we waited a whole year, so expectations were really high.
-And it was also, by chance, boiling hot in Jiro Nine. It was in the middle of a heat wave. It was 44 degrees. Oh, my goodness. So we were just waiting in our hotel room.
-We couldn't go outside because it was too hot. Kind of wondering what this dinner was going to be like and getting all dressed up. So, yeah, we went, and the place is beautiful. I thought it would be quite it didn't really feel formal, though. The staff were all really friendly and they they showed us, like, the kitchen first.
-And it's it's amazing because no one is dressed in the kitchen or they did a good job of pretending that they weren't. And they were making amazing things. It looked like Charlie and the Chocolate Factory for adults. All these little olive trees with amazing olive kind of confections hanging from them. And yeah, the whole thing was amazing.
-A once in the lifetime experience of lots of different courses of tiny, beautiful, surprising things. What was the best dish?
-It was all amazing, but I think the best thing for me was one of the desserts. I had a sheep themed pudding. Wow.
-So it was like a woolly sheep. It was a candy floss, like, made with sort of white sugar, like you have at the fair. And that was supposed to represent the wool. And the sound of the spoon on the bowl made the sound of the bell on the sheep in the field. And then separately, I had this thing to smell that smell of wool.
-So I was, like, eating this sheep wool and smelling the smell of wool at the same time, which it sounds really weird, but it was actually delicious. Sounds incredible. It really was amazing. Wow. Thank you for telling us about it.
+Sentiment - NEUTRAL
+Confidence - 0.9053056240081787
+
+Hi, Joe.
+Sentiment - NEUTRAL
+Confidence - 0.6419767737388611
+
+Hello, and thank you for talking to me today.
+Sentiment - POSITIVE
+Confidence - 0.966952383518219
+
+What would you like to talk about?
+Sentiment - NEUTRAL
+Confidence - 0.8941315412521362
+
+So I'm going to tell you about my recent visit to a very well known restaurant and very special restaurant.
+Sentiment - POSITIVE
+Confidence - 0.8191565871238708
+
+Okay, great.
+Sentiment - POSITIVE
+Confidence - 0.8942707180976868
+
+It's called Alcia Can Rocca, and it's in Girona in Spain, and it often comes in the top two or three restaurants wow.
+Sentiment - POSITIVE
+Confidence - 0.7054633498191833
+
+In the world.
+Sentiment - NEUTRAL
+Confidence - 0.5742768049240112
+
+And I went last week and well, the first thing that was exciting for us was to even get a table because we booked a year ago and we had to go.
+Sentiment - POSITIVE
+Confidence - 0.9785054922103882
+
+You have to go because you can book a year in advance, so you have to go online at 1 minute to midnight a year before you think you could go and keep refreshing, refreshing the page until places become available and just go immediately and get the table.
+Sentiment - NEUTRAL
+Confidence - 0.7109688520431519
+
+So we were really excited to have the table, and we were kind of nervous on Friday because we waited a whole year, so expectations were really high.
+Sentiment - POSITIVE
+Confidence - 0.9559164047241211
+
+And it was also, by chance, boiling hot in Jiro Nine.
+Sentiment - NEUTRAL
+Confidence - 0.7044792771339417
+
+It was in the middle of a heat wave.
+Sentiment - NEUTRAL
+Confidence - 0.7497084736824036
+
+It was 44 degrees.
+Sentiment - NEUTRAL
+Confidence - 0.806554913520813
+
+Oh, my goodness.
+Sentiment - NEUTRAL
+Confidence - 0.4549579322338104
+
+So we were just waiting in our hotel room.
+Sentiment - NEUTRAL
+Confidence - 0.8298810124397278
+
+We couldn't go outside because it was too hot.
+Sentiment - NEGATIVE
+Confidence - 0.7996941208839417
+
+Kind of wondering what this dinner was going to be like and getting all dressed up.
+Sentiment - NEUTRAL
+Confidence - 0.8711085319519043
+
+So, yeah, we went, and the place is beautiful.
+Sentiment - POSITIVE
+Confidence - 0.980960488319397
+
+I thought it would be quite it didn't really feel formal, though.
+Sentiment - NEUTRAL
+Confidence - 0.7429607510566711
+
+The staff were all really friendly and they they showed us, like, the kitchen first.
+Sentiment - POSITIVE
+Confidence - 0.9676565527915955
+
+And it's it's amazing because no one is dressed in the kitchen or they did a good job of pretending that they weren't.
+Sentiment - POSITIVE
+Confidence - 0.5531138777732849
+
+And they were making amazing things.
+Sentiment - POSITIVE
+Confidence - 0.9470756649971008
+
+It looked like Charlie and the Chocolate Factory for adults.
+Sentiment - POSITIVE
+Confidence - 0.6084334254264832
+
+All these little olive trees with amazing olive kind of confections hanging from them.
+Sentiment - POSITIVE
+Confidence - 0.8437005281448364
+
+And yeah, the whole thing was amazing.
+Sentiment - POSITIVE
+Confidence - 0.9838348627090454
+
+A once in the lifetime experience of lots of different courses of tiny, beautiful, surprising things.
+Sentiment - POSITIVE
+Confidence - 0.9413369297981262
+
+What was the best dish?
+Sentiment - NEUTRAL
+Confidence - 0.7639025449752808
+
+It was all amazing, but I think the best thing for me was one of the desserts.
+Sentiment - POSITIVE
+Confidence - 0.9883098602294922
+
+I had a sheep themed pudding.
+Sentiment - NEUTRAL
+Confidence - 0.8245169520378113
+
+Wow.
+Sentiment - POSITIVE
+Confidence - 0.7093686461448669
+
+So it was like a woolly sheep.
+Sentiment - NEUTRAL
+Confidence - 0.6869553327560425
+
+It was a candy floss, like, made with sort of white sugar, like you have at the fair.
+Sentiment - NEUTRAL
+Confidence - 0.8714756965637207
+
+And that was supposed to represent the wool.
+Sentiment - NEUTRAL
+Confidence - 0.691208004951477
+
+And the sound of the spoon on the bowl made the sound of the bell on the sheep in the field.
+Sentiment - NEUTRAL
+Confidence - 0.7727864980697632
+
+And then separately, I had this thing to smell that smell of wool.
+Sentiment - NEUTRAL
+Confidence - 0.775030791759491
+
+So I was, like, eating this sheep wool and smelling the smell of wool at the same time, which it sounds really weird, but it was actually delicious.
+Sentiment - POSITIVE
+Confidence - 0.8942983746528625
+
+Sounds incredible.
+Sentiment - POSITIVE
+Confidence - 0.9269375801086426
+
+It really was amazing.
+Sentiment - POSITIVE
+Confidence - 0.9724543690681458
+
+Wow.
+Sentiment - POSITIVE
+Confidence - 0.7093686461448669
+
+Thank you for telling us about it.
+Sentiment - POSITIVE
+Confidence - 0.9181442260742188
+
 It's a pleasure.
-You um, this recording is from the British Council to find more activities to practice your English. Visit www.britishcouncil.org slash learn English.
+Sentiment - POSITIVE
+Confidence - 0.937744677066803
+
+You um, this recording is from the British Council to find more activities to practice your English.
+Sentiment - NEUTRAL
+Confidence - 0.879097044467926
+
+Visit www.britishcouncil.org slash learn English.
+Sentiment - NEUTRAL
+Confidence - 0.841575562953949
+

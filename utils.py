@@ -29,7 +29,9 @@ def upload_file(audio_file, header):
 # Request transcript for file uploaded to AAI servers
 def request_transcript(upload_url, header):
     transcript_request = {
-        'audio_url': upload_url['upload_url']
+        'audio_url': upload_url['upload_url'],
+        'language_code': 'en',
+        'sentiment_analysis': True
     }
     transcript_response = requests.post(
         transcript_endpoint,
@@ -69,3 +71,9 @@ def get_paragraphs(polling_endpoint, header):
         paragraphs.append(para)
 
     return paragraphs
+
+# Get the sentiments of the transcript
+def get_sentiments(polling_endpoint, header):
+    response = requests.get(polling_endpoint , headers=header, verify=False)
+    response = response.json()
+    return response['sentiment_analysis_results']
